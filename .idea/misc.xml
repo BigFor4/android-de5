@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/cooking123/app/src/main/res/layout/activity_add.xml" value="0.3875" />
+        <entry key="..\:/android/cooking123/app/src/main/res/layout/activity_detail.xml" value="0.3875" />
+        <entry key="..\:/android/cooking123/app/src/main/res/layout/activity_edit.xml" value="0.20294117647058824" />
+        <entry key="..\:/android/cooking123/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/android/cooking123/app/src/main/res/layout/item.xml" value="0.3875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
